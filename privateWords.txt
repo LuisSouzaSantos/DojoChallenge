@@ -1,179 +1,214 @@
-abstract	
-arguments	
-boolean	
-break	
-byte
-case	
-catch	
-char	
-class
-const
-continue	
-debugger	
-default	
-delete	
-do
-double	
-else	
-enum
-eval	
-export
-extends	
-false	
-final	
-finally	
-float
-for	
-function	
-goto	
-if	
-implements
-import
-in	
-instanceof	
-int	
-interface
-let	
-long	
-native	
-new	
-null
-package	
-private	
-protected	
-public	
-return
-short	
-static	
-super
-switch	
-synchronized
-this	
-throw	
-throws	
-transient	
-true
-try	
-typeof
-var
-void
-volatile
-while
-with
-yield
-Array	
-Date	
-eval	
-function	
-hasOwnProperty
-Infinity	
-isFinite	
-isNaN	
-isPrototypeOf	
-length
-Math	
-NaN	
-name	
-Number	
-Object
-prototype	
-String	
-toString	
-undefined	
-valueOfalert	
-all	
-anchor	
-anchors	
-area
-assign	
-blur	
-button	
-checkbox	
-clearInterval
-clearTimeout	
-clientInformation	
-close	
-closed	
-confirm
-constructor	
-crypto	
-decodeURI	
-decodeURIComponent	
-defaultStatus
-document	
-element	
-elements	
-embed	
-embeds
-encodeURI	
-encodeURIComponent	
-escape	
-event	
-fileUpload
-focus	
-form	
-forms	
-frame	
-innerHeight
-innerWidth	
-layer	
-layers	
-link	
-location
-mimeTypes	
-navigate	
-navigator	
-frames	
-frameRate
-hidden	
-history	
-image	
-images	
-offscreenBuffering
-open	
-opener	
-option	
-outerHeight	
-outerWidth
-packages	
-pageXOffset	
-pageYOffset	
-parent	
-parseFloat
-parseInt	
-password	
-pkcs11	
-plugin	
-prompt
-propertyIsEnum	
-radio	
-reset	
-screenX	
-screenY
-scroll	
-secure	
-select	
-self	
-setInterval
-setTimeout	
-status	
-submit	
-taint	
-text
-textarea	
-top	
-unescape	
-untaint	
-window
-onblur	
-onclick	
-onerror	
-onfocus
-onkeydown	
-onkeypress	
-onkeyup	
-onmouseover
-onload	
-onmouseup	
-onmousedown	
-onsubmit
+abstract,palavra reservada
+arguments,palavra reservada
+boolean,palavra reservada
+break,palavra reservada
+byte,palavra reservada
+case,palavra reservada
+catch,palavra reservada
+char,palavra reservada
+class,palavra reservada
+const,palavra reservada
+continue,palavra reservada	
+debugger,palavra reservada
+default,palavra reservada
+delete,palavra reservada
+do,palavra reservada
+double,palavra reservada
+else,palavra reservada
+enum,palavra reservada
+eval,palavra reservada
+export,palavra reservada
+extends,palavra reservada
+false,palavra reservada
+final,palavra reservada	
+finally,palavra reservada
+float,palavra reservada
+for,palavra reservada
+function,palavra reservada
+goto,palavra reservada
+if,palavra reservada
+implements,palavra reservada
+import,palavra reservada
+in,palavra reservada	
+instanceof,palavra reservada
+int,palavra reservada	
+interface,palavra reservada
+let,palavra reservada
+long,palavra reservada	
+native,palavra reservada
+new,palavra reservada
+null,palavra reservada
+package,palavra reservada
+private,palavra reservada
+protected,palavra reservada	
+public,palavra reservada	
+return,palavra reservada
+short,palavra reservada	
+static,palavra reservada	
+super,palavra reservada
+switch,palavra reservada
+synchronized,palavra reservada
+this,palavra reservada
+throw,palavra reservada	
+throws,palavra reservada
+transient,palavra reservada
+true,palavra reservada
+try,palavra reservada
+typeof,palavra reservada
+var,palavra reservada
+void,palavra reservada
+volatile,palavra reservada
+while,palavra reservada
+with,palavra reservada
+yield,palavra reservada
+Array,objeto propriedade metodo
+Date,objeto propriedade metodo	
+eval,objeto propriedade metodo	
+function,objeto propriedade metodo	
+hasOwnProperty,objeto propriedade metodo
+Infinity,objeto propriedade metodo
+isFinite,objeto propriedade metodo
+isNaN,objeto propriedade metodo
+isPrototypeOf,objeto propriedade metodo
+length,objeto propriedade metodo
+Math,objeto propriedade metodo	
+NaN,objeto propriedade metodo
+name,objeto propriedade metodo
+Number,objeto propriedade metodo
+Object,objeto propriedade metodo
+prototype,objeto propriedade metodo
+String,objeto propriedade metodo
+toString,objeto propriedade metodo	
+undefined,objeto propriedade metodo
+valueOf,objeto propriedade metodo
+alert,palavra reservada
+all,palavra reservada
+anchor,palavra reservada
+anchors,palavra reservada	
+area,palavra reservada
+assign,palavra reservada	
+blur,palavra reservada
+button,palavra reservada
+checkbox,palavra reservada	
+clearInterval,palavra reservada
+clearTimeout,palavra reservada
+clientInformation,palavra reservada	
+close,palavra reservada
+closed,palavra reservada
+confirm,palavra reservada
+constructor,palavra reservada	
+crypto,palavra reservada
+decodeURI,palavra reservada
+decodeURIComponent,palavra reservada	
+defaultStatus,palavra reservada
+document,palavra reservada
+element,palavra reservada	
+elements,palavra reservada	
+embed,palavra reservada
+embeds,palavra reservada
+encodeURI,palavra reservada
+encodeURIComponent,palavra reservada	
+escape,palavra reservada	
+event,palavra reservada	
+fileUpload,palavra reservada
+focus,palavra reservada	
+form,palavra reservada	
+forms,palavra reservada	
+frame,palavra reservada
+innerHeight,palavra reservada
+innerWidth,	palavra reservada
+layer,palavra reservada	
+layers,palavra reservada
+link,palavra reservada	
+location,palavra reservada
+mimeTypes,palavra reservada	
+navigate,palavra reservada	
+navigator,palavra reservada	
+frames,palavra reservada	
+frameRate,palavra reservada
+hidden,palavra reservada
+history,palavra reservada
+image,palavra reservada	
+images,palavra reservada	
+offscreenBuffering,palavra reservada
+open,palavra reservada	
+opener,palavra reservada	
+option,palavra reservada	
+outerHeight,palavra reservada	
+outerWidth,palavra reservada
+packages,palavra reservada	
+pageXOffset,palavra reservada	
+pageYOffset,palavra reservada	
+parent,palavra reservada	
+parseFloat,palavra reservada
+parseInt,palavra reservada	
+password,palavra reservada	
+pkcs11,palavra reservada	
+plugin,palavra reservada	
+prompt,palavra reservada
+propertyIsEnum,palavra reservada	
+radio,palavra reservada	
+reset,palavra reservada	
+screenX,palavra reservada
+screenY,palavra reservada
+scroll,palavra reservada	
+secure,palavra reservada	
+select,palavra reservada
+self,palavra reservada
+setInterval,palavra reservada
+setTimeout,palavra reservada
+status,palavra reservada
+submit,palavra reservada
+taint,palavra reservada
+text,palavra reservada
+textarea,palavra reservada	
+top,palavra reservada
+unescape,palavra reservada	
+untaint,palavra reservada
+window,palavra reservada
+onblur,Eventos de HTML
+onclick,Eventos de HTML
+onerror,Eventos de HTML
+onfocus,Eventos de HTML
+onkeydown,Eventos de HTML
+onkeypress,Eventos de HTML	
+onkeyup,Eventos de HTML	
+onmouseover,Eventos de HTML
+onload,Eventos de HTML
+onmouseup,Eventos de HTML	
+onmousedown,Eventos de HTML
+onsubmit,Eventos de HTML
+=,Operador
++=,Operador
+-=,Operador
+*=,Operador
+/=,Operador
+%=,Operador
+**=,Operador
+<<=,Operador
+>>=,Operador
+>>>=,Operador
+&=,Operador
+^=,Operador
+|=,Operador
+==,Operador de Comparacao
+===,Operador de Comparacao
+!=,Operador de Comparacao
+!==,Operador de Comparacao
+>,Operador de Comparacao
+>=,Operador de Comparacao
+<,Operador de Comparacao
+<=,Operador de Comparacao
+%,Operador Aritimetico
+++,Operador Aritimetico
+--,Operador Aritimetico
+-,Operador Aritimetico
++,Operador Aritimetico
+**,Operador Aritimetico
+&,Operador bit-bit
+|,Operador bit-bit
+^,Operador bit-bit
+~,Operador bit-bit
+<<,Operador bit-bit
+>>,Operador bit-bit
+>>>,Operador bit-bit
